@@ -20,8 +20,9 @@ Business Development Manager / Consultant, Lean Six Sigma Professional.
 """
 EMAIL = "adilahmadzada5@gmail.com"
 SOCIAL_MEDIA = {
-    "YouTube": "https://www.youtube.com/channel/UCWmMj6MDEvHmiad8FgGBVNQ",
-    "Personal": "https://adilahmadzada.dorik.io/",
+    "YouTube":  "https://www.youtube.com/channel/UCWmMj6MDEvHmiad8FgGBVNQ",
+    "LinkedIn": "https://www.linkedin.com/in/adil-ahmadzada-9375251b8/",
+    "Personal": "https://adilahmadzada.dorik.io/"
 }
 PROJECTS = {
     "🏆 Azerbaijan: Plastic injection and moulding machine manufacturing project.": "https://adilahmadzada.dorik.io/",
